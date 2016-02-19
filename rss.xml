@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[LWS Space]]></title>
         <description><![CDATA[LWS Space]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lws-space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 17:27:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 17:36:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lws-space/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fight the Ugliness]]></title>
-            <description><![CDATA[<article><h1>Fight the Ugliness</h1><p>“The life of a designer is the life of fight: fight against the ugliness. Just like a doctor fights against disease. For us, the visual disease is what we have around, and what we try to do is cure it somehow with design.”– MASSIMO VIGNELLI</p></article>]]></description>
-            <link>undefinedfight-the-ugliness/index.html</link>
+            <description><![CDATA[<article><h1>Fight the Ugliness</h1><p>“The life of a designer is the life of fight: fight against the ugliness. Just like a doctor fights against disease. For us, the visual disease is what we have around, and what we try to do is cure it somehow with design.”– MASSIMO VIGNELLI</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ba87cd-7f92-4960-96da-c97a8fff8b8b.png"></article>]]></description>
+            <link>https://thegrid.ai/lws-space/fight-the-ugliness/index.html</link>
             <guid isPermaLink="false">d4733f64-4bcd-494d-80db-255581344710</guid>
-            <pubDate>Fri, 19 Feb 2016 17:27:46 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 17:35:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
