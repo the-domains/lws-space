@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LWS Space]]></title>
+        <description><![CDATA[LWS Space]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 17:27:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fight the Ugliness]]></title>
+            <description><![CDATA[<article><h1>Fight the Ugliness</h1><p>“The life of a designer is the life of fight: fight against the ugliness. Just like a doctor fights against disease. For us, the visual disease is what we have around, and what we try to do is cure it somehow with design.”– MASSIMO VIGNELLI</p></article>]]></description>
+            <link>undefinedfight-the-ugliness/index.html</link>
+            <guid isPermaLink="false">d4733f64-4bcd-494d-80db-255581344710</guid>
+            <pubDate>Fri, 19 Feb 2016 17:27:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
